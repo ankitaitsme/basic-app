@@ -1,1 +1,1 @@
-print hello.js
+console.log('hello Ankita');
